@@ -1,0 +1,19 @@
+#banner{
+    background-color: rgb(39, 40, 34);
+    text-align: center;
+}
+
+#bg_banner{
+    width: 100px;
+    height: 200px;
+}
+
+#hello_world{
+    margin-top: 150px; 
+}
+
+h1{
+    font-size: 70px;
+    font-family: 'Montserrat', serif;
+    color: white;
+}
