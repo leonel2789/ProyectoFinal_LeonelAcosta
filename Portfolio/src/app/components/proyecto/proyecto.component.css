@@ -1,0 +1,10 @@
+.row{
+    padding: 20px;
+    font-family: 'Montserrat', serif;
+    background-color: rgba(81, 9, 139, 0.698);
+    color: white;
+}
+
+.contenedor{
+    width: auto;
+}

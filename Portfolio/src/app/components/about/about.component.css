@@ -1,0 +1,43 @@
+.row{
+    padding: 20px;
+    background-color: #51098bb2;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Montserrat', serif;
+}
+
+@media (min-width: 576px){
+    #foto{
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 550px;
+    }
+}
+
+@media (max-width: 575px){
+    #foto{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 33%;
+        top: 700px;
+    }
+}
+
+#nombre{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 15%;
+    font-family: 'Montserrat', serif;
+}
+
+#desc{
+    color: #BDBDBD;
+    font-weight: lighter;
+}
